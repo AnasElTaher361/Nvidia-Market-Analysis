@@ -20,6 +20,9 @@ The challenge was to structure and visualize this data to identify growth opport
 
 The project followed a structured BI workflow:
 
+
+
+
 🔹 Data Modeling
 Built a Star Schema model
 Central fact table: NVIDIA Market Analysis
@@ -29,6 +32,12 @@ Sales & Units Sold
 Discount & Region
 Return Rate & Region
 Customer Segment, Product, Region
+-
+-
+-
+-
+-
+-
 🔹 Data Visualization (Power BI)
 
 Created multiple interactive dashboard pages:
@@ -42,6 +51,9 @@ Advanced Insights Page:
 Decomposition tree (AI/ML adoption)
 Ad campaign effectiveness
 Revenue performance gauge
+-
+-
+-
 🛠️ Skills Used
 Power BI Dashboard Design
 Data Modeling (Star Schema)
@@ -50,6 +62,14 @@ Data Cleaning & Transformation
 Business Intelligence Storytelling
 Data Visualization Techniques
 Analytical Thinking & Insight Generation
+-
+-
+-
+-
+-
+-
+-
+-
 📊 Results & Business Recommendations
 📈 Key Findings
 Revenue trends show clear yearly growth patterns influenced by product categories
@@ -57,12 +77,32 @@ Certain regions outperform others in both sales and market share
 Competitor influence significantly impacts unit sales and satisfaction levels
 AI/ML adoption correlates with higher market performance
 Customer satisfaction varies strongly across product categories and regions
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 💡 Business Recommendations
 Focus marketing efforts on high-performing regions for revenue scaling
 Improve underperforming product categories based on return rate analysis
 Increase AI/ML adoption strategies to enhance competitive advantage
 Optimize pricing and discount strategies regionally
 Strengthen customer experience in low-satisfaction segments
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 🚀 Next Steps
 Integrate predictive analytics for sales forecasting
 Add time-series forecasting models for demand prediction
