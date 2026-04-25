@@ -1,4 +1,8 @@
 🚀 NVIDIA Customer Market Analysis – Power BI Dashboard
+-
+-
+-
+-
 📌 Executive Summary
 
 This project presents an in-depth Power BI analysis of the NVIDIA Customer Market Dataset, designed to uncover key insights into sales performance, customer behavior, market share, and competitive dynamics. The dashboard transforms raw data into interactive visual storytelling, enabling data-driven decision-making across products, regions, and customer segments.
